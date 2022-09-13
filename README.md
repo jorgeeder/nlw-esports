@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> 
-    eSports
+    <img alt="eSports" src="./assets/Logo.png">
   </h1>
   <h2 align="center"> 
     NLW - Rocketseat
@@ -30,12 +30,9 @@ Esta aplicação tem o intuito de conectar jogadores onde os usuários poderam e
 
 Será utilizando a API da Twitch para listar os jogos em alta para que os usuários possam escolher seus jogos favoritos.
 
-🚧 under construction... 🚧
-
 ## Features
 
 🚧 under construction... 🚧
-
 
 ## Technologies
 
@@ -43,16 +40,25 @@ Será utilizando a API da Twitch para listar os jogos em alta para que os usuár
 -   **[React Native](https://reactnative.dev/)**
 -   **[NodeJS](https://nodejs.org/en/)**
 
-
-
 ## Application in Use
+Application layout in **[Figma](https://www.figma.com/file/8RgcHqrjhGvShhVQqt9F5k/NLW-eSports-(Community)?node-id=0%3A1)**
 
-🚧 under construction... 🚧
+### Web
 
+![Landing](./assets/Landing.png)
+![Ads](./assets/Post-ad.png)
+
+### Mobile
+
+![Splash](./assets/Splash.png)
+![Home](./assets/Home.png)
+![Conecting](./assets/Conecting.png)
+![Ad](./assets/Ad.png)
 
 ## Requirement
 
-🚧 under construction... 🚧
+-   **[Node.js](https://nodejs.org/)**
+-   **[React Native Environment Setup](https://nodejs.org/)**
 
 
 ## Running The Project
