@@ -40,7 +40,7 @@ Será utilizando a API da Twitch para listar os jogos em alta para que os usuár
 -   **[React Native](https://reactnative.dev/)**
 -   **[NodeJS](https://nodejs.org/en/)**
 
-## Application in Use
+## Layout
 Application layout in **[Figma](https://www.figma.com/file/8RgcHqrjhGvShhVQqt9F5k/NLW-eSports-(Community)?node-id=0%3A1)**
 
 ### Web
@@ -50,10 +50,9 @@ Application layout in **[Figma](https://www.figma.com/file/8RgcHqrjhGvShhVQqt9F5
 
 ### Mobile
 
-![Splash](./assets/Splash.png)
-![Home](./assets/Home.png)
-![Conecting](./assets/Conecting.png)
-![Ad](./assets/Ad.png)
+![SplashAndHome](./assets/SplashAndHome.png)
+![AdAndConecting](./assets/AdAndConecting.png)
+
 
 ## Requirement
 
